@@ -1,0 +1,20 @@
+{
+  "name": "01-redux-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "./node_modules/.bin/ts-node app",
+    "app-2": "./node_modules/.bin/ts-node app-2",
+    "app-3": "./node_modules/.bin/ts-node app-3",
+    "app-4": "./node_modules/.bin/ts-node app-4"
+  },
+  "author": "Juan Estiven Mazo Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.1",
+    "ts-node": "^8.0.1",
+    "typescript": "^3.2.4"
+  }
+}
